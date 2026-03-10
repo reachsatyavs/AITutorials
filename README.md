@@ -477,12 +477,7 @@ Frameworks evolve quickly but **core concepts remain stable**.
 
 # 11. Share This Document
 
-This roadmap is designed for
-
-• engineers\
-• students\
-• educators\
-• beginners entering AI
+This roadmap is designed for beginners.. 
 
 Feel free to share this guide with colleagues starting their AI learning
 journey.
